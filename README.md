@@ -40,7 +40,7 @@ git clone https://github.com/SEU-USUARIO/Projeto-Tela-Login.git
 Abra o arquivo index.html em qualquer navegador.
 
 
-Aqui você pode adicionar uma imagem capturada da tela de login.
+
 
 🛠️ Personalização
 Você pode personalizar o projeto facilmente:
