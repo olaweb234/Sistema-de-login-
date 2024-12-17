@@ -52,7 +52,7 @@ Integrar com JavaScript para validação de login.
 👤 Autor
 Gabriel Henrique Fernandes de Jesus
 
-LinkedIn: Seu LinkedIn
+
 Email: gab10henrique@hotmail.com
 📄 Licença
 Este projeto é open-source e pode ser usado como base para outros projetos. Fique à vontade para contribuir e modificar.
