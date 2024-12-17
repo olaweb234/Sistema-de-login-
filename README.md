@@ -39,7 +39,6 @@ Copiar código
 git clone https://github.com/SEU-USUARIO/Projeto-Tela-Login.git
 Abra o arquivo index.html em qualquer navegador.
 
-📸 Imagem do Projeto
 
 Aqui você pode adicionar uma imagem capturada da tela de login.
 
